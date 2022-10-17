@@ -8,9 +8,7 @@
 
 - 🔭 I’m Tran Duy Tan 
 
-- 🌱 I’m currently studying at FPT PolyTechnic College
-
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/ferd96)**
+- 🌱 I’m currently studying at UIT University
 
 - 👯 My phone **0379691867**
 
